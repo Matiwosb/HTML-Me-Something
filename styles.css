@@ -1,0 +1,26 @@
+p{
+    margin: 100px 100px 150px 80px;
+    padding: 25px 50px 75px 100px;
+}
+div{
+    width: 300px;
+    margin: auto;
+    border: 1px solid red;
+}
+h1{
+    margin: 0 0 50px 0;
+}
+h2{
+    margin: 20px 0 0 0;
+}
+.note{
+    font-style: italic;
+    font-weight: bold;
+}
+#place{
+    background: linear-gradient(to top, #ffe8d4,f69d3c);
+    border: 1px solid;
+    padding: 15px;
+    border-radius: 20px;
+    box-shadow: 2px 2px 1px green;
+}
